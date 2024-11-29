@@ -1,6 +1,2 @@
 # Bible_Buddy
-# Bible_Buddy
-# Bible_Buddy
-# BIBLE_BUDDY
-# BIBLE_BUDDY
-# BIBLE_BUDDY
+# A compreshensive application that makes Bible study easy.
